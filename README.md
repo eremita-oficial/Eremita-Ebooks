@@ -7,7 +7,7 @@ Este repositório GitHub abriga ebooks gratuitos em formato EPUB. O site é simp
 
 ### Destaques
 
-* **Ampla coleção de ebooks:** O site oferece uma vasta seleção de ebooks em diversas categorias, incluindo ficção, não ficção, literatura clássica e contemporânes e muito mais.
+* **Ampla coleção de ebooks:** O site oferece uma vasta seleção de ebooks em diversas categorias, incluindo ficção, não ficção, literatura clássica e contemporânea e muito mais.
 * **Download gratuito:** Todos os ebooks podem ser baixados gratuitamente em formato EPUB.
 * **Design profissional:** O site possui um minimalista e intuitivo, proporcionando uma excelente experiência de usuário.
 * **Navegação facilitada:** Os usuários podem navegar facilmente pelo site por categoria, autor ou título.
