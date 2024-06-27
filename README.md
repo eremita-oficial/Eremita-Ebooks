@@ -24,7 +24,7 @@ Sua participação é essencial para o crescimento deste projeto! Você pode con
 
 Para aproveitar os recursos do site, siga estes passos:
 
-1. **Acesse o site:** [https://www.epubbooks.com/](https://www.epubbooks.com/) (substitua pelo URL do seu site).
+1. **Acesse o site:** [https://github.com/eremita-oficial/Eremita-Ebooks/](https://github.com/eremita-oficial/Eremita-Ebooks/) (substitua pelo URL do seu site).
 2. **Explore as categorias:** Descubra as diversas categorias de ebooks disponíveis.
 3. **Encontre o ebook desejado:** Navegue pelas categorias para encontrar o ebook que você procura.
 4. **Baixe o ebook:** Clique no botão de download para baixar o ebook em formato EPUB.
