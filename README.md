@@ -4,8 +4,8 @@ Ebooks em formato EPUB, formatados profissionalmente por Eremita e totalmente gr
 (**OBS:** Coloque o cursor sobre a descrição do ebook para maiores detalhes.)
 
 ##Gêneros:
-BÍBLIA
-BIOGRAFIAS & MEMÓRIAS
+- BÍBLIA
+- BIOGRAFIAS & MEMÓRIAS
 CANGAÇO
 CIÊNCIA
 CINEMA
