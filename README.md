@@ -1,3 +1,4 @@
+![Eremita-LOGO](https://github.com/eremita-oficial/Eremita-Ebooks/blob/main/eremita-LOGO.png)
 # Ebooks - Acervo do Eremita
 Ebooks em formato EPUB, formatados profissionalmente por Eremita e totalmente gratuitos para download.
 
