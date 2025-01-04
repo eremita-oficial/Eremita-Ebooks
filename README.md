@@ -1,7 +1,7 @@
 # ACERVO DO
 ![Eremita-LOGO](https://github.com/eremita-oficial/Eremita-Ebooks/blob/main/eremita-LOGO.png)
 <hr/>
-Ebooks em formato EPUB, formatados profissionalmente por Eremita e totalmente gratuitos para download.
+Ebooks em formato EPUB e PDF, formatados profissionalmente por Eremita e totalmente gratuitos para download.
 <hr/>
 (OBS: Coloque o cursor sobre a descrição do ebook para maiores detalhes.)
 
